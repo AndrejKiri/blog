@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
   <p>Lorem ipsum...</p>
 </div>
 
-
+<script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -31,3 +31,4 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+</script>
